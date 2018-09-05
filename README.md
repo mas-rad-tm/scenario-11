@@ -1,5 +1,5 @@
 # Scénario 11
-Configuration centralisée des services
+Stratégie de versionning dynamique
 
 Ce scénario se base sur un services applicatifs: 
 * **personnes-services**: le service de gestion des personnes
